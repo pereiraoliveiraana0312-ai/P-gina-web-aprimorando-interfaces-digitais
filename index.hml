@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Empatia e Cooperação</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f7f6;
+      color: #333333;
+    }
+
+    .header-principal {
+      background-color: #2c3e50;
+      color: #ffffff;
+      padding: 30px;
+      text-align: center;
+    }
+
+    .header-principal h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+
+    .header-principal p {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+
+    .nav-container {
+      background-color: #34495e;
+      text-align: center;
+    }
+
+    .nav-container ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .nav-container li {
+      display: inline-block;
+    }
+
+    .nav-container a {
+      display: block;
+      color: #ffffff;
+      padding: 15px 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .nav-container a:hover {
+      background-color: #1abc9c;
+    }
+
+    .secao {
+      background-color: #ffffff;
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 25px;
+      border-radius: 8px;
+    }
+
+    .secao h1 {
+      color: #2c3e50;
+      border-bottom: 2px solid #1abc9c;
+      padding-bottom: 8px;
+      font-size: 24px;
+    }
+
+    .secao p {
+      font-size: 16px;
+    }
+
+    .secao ul {
+      padding-left: 20px;
+    }
+
+    .secao li {
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .rodape {
+      text-align: center;
+      padding: 20px;
+      background-color: #2c3e50;
+      color: #ffffff;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header-principal">
+    <h1>Empatia e Cooperação</h1>
+    <p>Valores essenciais para a convivência e transformação social.</p>
+  </div>
+
+  <div class="nav-container">
+    <ul>
+      <li><a href="#empatia">Empatia</a></li>
+      <li><a href="#cooperacao">Cooperação</a></li>
+      <li><a href="#pratica">Práticas Diárias</a></li>
+    </ul>
+  </div>
+
+  <div class="secao" id="empatia">
+    <h1>O que é Empatia?</h1>
+    <p>A empatia é a capacidade de se colocar no lugar do outro, buscando compreender seus sentimentos, perspectivas e experiências. Não se trata apenas de concordar com a outra pessoa, mas de reconhecer sua perspectiva e validar suas emoções com respeito e consideração.</p>
+  </div>
+
+  <div class="secao" id="cooperacao">
+    <h1>O que é Cooperação?</h1>
+    <p>Cooperação é a ação de trabalhar em conjunto com outras pessoas para alcançar um objetivo comum. Ao contrário da competição, onde apenas um lado se destaca, o trabalho cooperativo valoriza as contribuições individuais para construir resultados coletivos sólidos e sustentáveis.</p>
+  </div>
+
+  <div class="secao" id="pratica">
+    <h1>Atitudes para o Dia a Dia</h1>
+    <p>Pequenas acoes podem transformar a convivencia em ambientes de estudo, trabalho e comunidade:</p>
+    <ul>
+      <li>Pratique a escuta atenta, sem interromper enquanto o outro fala.</li>
+      <li>Ofereca ajuda espontanea ao perceber que alguem precisa de apoio.</li>
+      <li>Valorize as ideias dos seus colegas de equipe, criando espaco para diferentes opinioes.</li>
+      <li>Comunique-se com clareza e gentileza, mesmo em situacoes de desacordo.</li>
+    </ul>
+  </div>
+
+  <div class="rodape">
+    <p>Pagina informativa sobre a importancia da Empatia e Cooperacao.</p>
+  </div>
+
+</body>
+</html>
