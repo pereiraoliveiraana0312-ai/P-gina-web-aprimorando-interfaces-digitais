@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Empatia e Cooperação</title>
-  <style>
+ <style>
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
@@ -93,6 +90,10 @@
       margin-top: 40px;
     }
   </style>
+<head>
+  <meta charset="UTF-8">
+  <title>Empatia e Cooperacao</title>
+ 
 </head>
 <body>
 
